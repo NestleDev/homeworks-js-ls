@@ -30,7 +30,7 @@ function returnFirstArgument() {
    sumWithDefaults(10) вернет 110
  */
 function sumWithDefaults(a, b) {
-  dfdfdf
+  сonsole.log('sdsdsdsd')
 }
 
 /*
